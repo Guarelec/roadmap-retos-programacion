@@ -22,12 +22,38 @@
  * - Crea una variable (y una constante si el lenguaje lo soporta).
  * - Crea variables representando todos los tipos de datos primitivos
  *   del lenguaje (cadenas de texto, enteros, booleanos...).
+
+
+
  * - Imprime por terminal el texto: "¡Hola, [y el nombre de tu lenguaje]!"
  *
  * ¿Fácil? No te preocupes, recuerda que esta es una ruta de estudio y
  * debemos comenzar por el principio.
  */
 ```
+
+ Sitio web oficial: https://www.python.org/
+
+# Comentario de una línea
+"""
+Comentario
+de
+varias
+líneas
+"""
+
+# Creación de una variable y una constante
+mi_variable = 10
+MI_CONSTANTE = "Hola, Python!"
+
+# Tipos de datos primitivos
+cadena = "Hola, Python!"
+entero = 42
+flotante = 3.14
+booleano = True
+
+
+
 #### Tienes toda la información extendida sobre el roadmap de retos de programación en **[retosdeprogramacion.com/roadmap](https://retosdeprogramacion.com/roadmap)**.
 
 Sigue las **[instrucciones](../../README.md)**, consulta las correcciones y aporta la tuya propia utilizando el lenguaje de programación que quieras.
